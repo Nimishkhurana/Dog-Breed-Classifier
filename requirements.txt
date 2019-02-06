@@ -1,0 +1,6 @@
+torch==1.0.0
+numpy==1.14.5
+Flask==0.12.2
+opencv_contrib_python==4.0.0.21
+torchvision==0.2.1
+Pillow==5.4.1
